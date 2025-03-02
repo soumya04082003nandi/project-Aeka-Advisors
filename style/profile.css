@@ -54,12 +54,13 @@ input{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    padding: 2vh;
 
 
 }
 .uploaded-img{
     width: 30%;
-    background-position: center;
     background-repeat: no-repeat;
     background-image:url(/img/test1.jpg);
+    background-size:contain;
 }
