@@ -5,7 +5,8 @@
 }
 .main{
     width: 100vw;
-    height: 90vh;
+    height: 150vh;
+   
     display: flex;
     align-items: center; 
     justify-content:space-evenly;
@@ -49,12 +50,13 @@ input{
 .proifle-images{
     width:60%;
     height: 95%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 5vh;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
     padding: 2vh;
+    row-gap: 2vh;
 
 
 }

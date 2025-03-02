@@ -39,3 +39,14 @@ button{
     padding: 2px;
 
 }
+main{
+    width:100vw;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 2vh;
+
+}
+.index-img{
+    width: 24%;
+}
